@@ -2,7 +2,7 @@
 
 <head>
     <meta name="viewport" content="initial-scale=1, user-scalable=0, minimal-ui" charset="UTF-8">
-    <title>Arxiv One</title>
+    <title>Cson's Single Page APP:Arxiv One</title>
     <!-- UC强制全屏 -->
     <meta name="full-screen" content="yes">
     <!-- QQ强制全屏 -->
@@ -47,7 +47,7 @@
             // 拼接HTML
             var result = '';
             $.ajax({
-                url: "http://export.arxiv.org/api/query?search_query=all:cs.CL&id_list=&start="
+                url: "https://export.arxiv.org/api/query?search_query=all:cs.CL&id_list=&start="
                     +start_index+"&max_results="+size
                     +"&sortBy=lastUpdatedDate",
                 dataType: "xml",
