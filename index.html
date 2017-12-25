@@ -2,7 +2,7 @@
 
 <head>
     <meta name="viewport" content="initial-scale=1, user-scalable=0, minimal-ui" charset="UTF-8">
-    <title>Arxiv One</title>
+    <title>Arxiv Digest</title>
     <!-- UC强制全屏 -->
     <meta name="full-screen" content="yes">
     <!-- QQ强制全屏 -->
@@ -19,13 +19,22 @@
 </head>
 
 <body>
+
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <input type="search" class="form-control" placeholder="Search(Not implemented)">
-                <br>
+                <nav class="navbar navbar-default">
+                    <a class="navbar-brand" href="#">Arxiv Digest</a>
+                    <form class="navbar-form navbar-left" action="">
+                            <div class="form-group">
+                              <input type="text" class="form-control" placeholder="cs.CL">
+                            </div>
+                            <button class="btn btn-default" id="search">Search</button>
+                    </form>   
+                </nav>
+                          
                 <div class="content">
-                    <div class="lists"></div>
+                    <div class="lists" id="list"></div>
                 </div>
             </div>
             
@@ -34,20 +43,48 @@
 
 </body>
 <script>
-    $(function(){
-    // start_index
+    var $_GET = (function(){
+        var url = window.document.location.href.toString();
+        var u = url.split("?");
+        if(typeof(u[1]) == "string"){
+            u = u[1].split("&");
+            var get = {};
+            for(var i in u){
+                var j = u[i].split("=");
+                get[j[0]] = j[1];
+            }
+            return get;
+        } else {
+            return {};
+        }
+    })();
+
+    var topic = $_GET['topic'];
+    if(!topic){
+        topic = "cs.CL";
+    }
+
     var start_index = 0;
     // 每页展示5个
     var size = 5;
+    var result = '';
+    var reg_clear =false;
 
+    //search
+    $('form').submit(function(){
+        window.location.href = 'index.html?topic=' + $('input').val();
+        return false;
+    })
+
+    $(function(){
     // dropload
     $('.content').dropload({
         scrollArea : window,
         loadDownFn : function(me){
             // 拼接HTML
-            var result = '';
+            
             $.ajax({
-                url: "https://export.arxiv.org/api/query?search_query=all:cs.CL&id_list=&start="
+                url: "https://export.arxiv.org/api/query?search_query=all:" + topic + "&id_list=&start="
                     +start_index+"&max_results="+size
                     +"&sortBy=lastUpdatedDate",
                 dataType: "xml",

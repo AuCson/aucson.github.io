@@ -40,23 +40,23 @@ body{
     max-height: 40px;
     overflow: hidden;
     line-height: 20px;
-    margin: 0 10px;
+
     font: bold 14px/20px arial,sans-serif;
 }
 .content .item p{
     display: block;
     width: 100%;
-
+    text-align:justify;
     overflow: hidden;
     line-height: 20px;
-    margin: 0 10px;
+
     font: 14px/20px times new roman,sans-serif;
 }
 .content .item .origin{
     display: inline;
     overflow: hidden;
     line-height: 20px;
-    margin: 0 10px;
+
     font: 14px/20px times new roman,sans-serif;
 }
 .content .item .date{
