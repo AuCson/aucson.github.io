@@ -20,19 +20,23 @@
 
 <body>
 
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Arxiv Digest</a>
+                <form class="navbar-form navbar-left" action="" role="search">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="search_input">
+                        </div>
+                        <button class="btn btn-default" id="search">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <nav class="navbar navbar-default">
-                    <a class="navbar-brand" href="#">Arxiv Digest</a>
-                    <form class="navbar-form navbar-left" action="">
-                            <div class="form-group">
-                              <input type="text" class="form-control" placeholder="cs.CL">
-                            </div>
-                            <button class="btn btn-default" id="search">Search</button>
-                    </form>   
-                </nav>
-                          
+            <div class="col-md-8 col-md-offset-2">    
                 <div class="content">
                     <div class="lists" id="list"></div>
                 </div>
@@ -63,6 +67,8 @@
     if(!topic){
         topic = "cs.CL";
     }
+
+    $('#search_input').attr("placeholder",topic)
 
     var start_index = 0;
     // 每页展示5个
