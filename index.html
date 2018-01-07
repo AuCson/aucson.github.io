@@ -73,7 +73,6 @@
     var start_index = 0;
     // 每页展示5个
     var size = 5;
-    var result = '';
     var reg_clear =false;
 
     //search
@@ -88,7 +87,7 @@
         scrollArea : window,
         loadDownFn : function(me){
             // 拼接HTML
-            
+            var result = '';
             $.ajax({
                 url: "https://export.arxiv.org/api/query?search_query=all:" + topic + "&id_list=&start="
                     +start_index+"&max_results="+size
