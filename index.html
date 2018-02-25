@@ -13,7 +13,7 @@
     <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="./dist/dropload.min.js"></script>
+    <script src="./dist/dropload.js"></script>
     <link rel="stylesheet" href="./dist/page.css">
     <link rel="stylesheet" href="./dist/dropload.css">
 </head>
@@ -86,7 +86,6 @@
     var start_index = 0;
     // 每页展示5个
     var size = 5;
-    var result = '';
     var reg_clear =false;
 
     //search
@@ -101,7 +100,7 @@
         scrollArea : window,
         loadDownFn : function(me){
             // 拼接HTML
-            
+            var result = '';
             $.ajax({
                 url: "https://export.arxiv.org/api/query?search_query=all:" + topic + "&id_list=&start="
                     +start_index+"&max_results="+size
