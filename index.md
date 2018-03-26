@@ -19,7 +19,7 @@ I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy build
 
 ## Education
 
-<b>Fudan University,</b> 2015.9-
+<b>Fudan University,</b> 2015.9 -
 
 <b>National University of Singapore</b> 2017.8 - 2017.12
 
@@ -64,4 +64,8 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
     - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
 
-> This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
+## Awards
+- National Scholarship for undergraduates, 2016 & 2017
+- IshamWork software competion, first-runner up
+- Microsoft Beauty of Programming, 16/1000
