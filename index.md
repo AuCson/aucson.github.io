@@ -69,3 +69,10 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 - National Scholarship for undergraduates, 2016 & 2017
 - IshamWork software competion, first-runner up
 - Microsoft Beauty of Programming, 16/1000
+
+## Abilities
+- Proficient: Python, PyTorch
+- Skilled: C++, Tensorflow, Web/Android Development
+- Independent research ability
+- English
+- Korean :p Cuz I'm *ethnically* Korean: Kim Hee Sam is my korean name pronunciation. 
