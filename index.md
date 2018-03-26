@@ -8,7 +8,7 @@ layout: default
 
 Hi, I'm Xisen Jin. I am a junior year student of Fudan University, China, majored in Computer Science and Technology.
 
-I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs with by programming.
+I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs by programming.
 
 ## Research Interest
 
