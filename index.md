@@ -4,42 +4,36 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="self.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi, I'm Xisen Jin. I am a junior year student of Fudan University, China, majored in Computer Science and Technology.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs with by programming.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- Natural Language Processing
+    - Goal-oriented dialogue agents, Question answering, and Foundamentals(linguistic matters)
+- Machine Learning
+    - Exploring ways to effectively learn representations for data.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+2 papers under review in ACL2018 and SIGIR2018.
 
-## Typography
+## Project Navigation
+- Wheels: 
+    - [Batched-Attention GRU in PyTorch](https://github.com/AuCson/PyTorch-Batch-Attention-Seq2seq)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+- Softwares: 
+    - [GRE-Verbal-Prep-3000](https://github.com/AuCson/GRE-3000-Memory-Helper)
+    - [Arxiv Digest](https://aucson.github.io/arxiv_digest.html)
+    
+    Simple(less than 3 hour's work) but useful(at least to myself).
 
-Here is a table
+- Codes for Papers:
+    - Available Once Accepted
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+> This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
