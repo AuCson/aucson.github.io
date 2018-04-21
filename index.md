@@ -44,15 +44,13 @@ Research Assistant, From Aug. 2017 to Dec. 2017
 
 Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 - Director: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
-
 <br>
 
 ## Publications
 
 1. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper.
 
-2. Two paper under effort.
-
+2. Two papers under effort.
 <br>
 
 ## Projects
@@ -71,14 +69,12 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
     - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
-
 <br>
 
 ## Awards
 - National Scholarship for undergraduates, 2016 & 2017
 - IshamWork software competion, first-runner up
 - Microsoft Beauty of Programming, 16/1000
-
 <br>
 
 ## Abilities
