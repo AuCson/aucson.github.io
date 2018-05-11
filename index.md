@@ -16,7 +16,8 @@ I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy build
 - Natural Language Processing
     - Goal-oriented dialogue agents, Question answering, and Foundamentals(linguistic matters).
 - Machine Learning
-    - Exploring ways to effectively learn representations for data. Pursuing ways to few-data learning.
+    - Generative models and semi-supervised models
+- Reinfocement learning and Meta-learning
 <br>
 
 ## Education
@@ -32,18 +33,19 @@ I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy build
 
 Research Assistant, From Oct. 2017 to present
 
-  - Director: [Dr. Zhongyu Wei](https://wei-zhongyu.github.io/)
+- Advisor: [Dr. Zhongyu Wei](https://wei-zhongyu.github.io/)
 
 <b>[Web Information Retrieval / Natural Language Processing Group (WING)](http://wing.comp.nus.edu.sg/)</b>, National University of Singapore
 
 Research Assistant, From Aug. 2017 to Dec. 2017
-- Director: Wenqiang Lei, [Dr. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
+
+- Advisor: Wenqiang Lei, [Dr. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
 
 
 <b>[Data Science Lab, JD.com](http://datascience.jd.com)</b>, Beijing, China
 
 Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
-- Director: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
+- Advisor: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
 <br>
 
 ## Publications
@@ -82,5 +84,5 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 - Skilled: C++, Tensorflow, Web/Android Development
 - Independent research ability
 - English
-- Korean :p Cuz I'm *ethnically* Korean: Kim Hee Sam is my korean name pronunciation. 
+- Korean :p Cuz I'm *ethnically* Korean: Kim Hee Sum(김희삼) is my korean name. 
 <br>
