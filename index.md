@@ -10,7 +10,7 @@ Hi, I'm Xisen Jin. I am a senior year student of Fudan University, China, majore
 
 I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs by programming.
 
-Update: I will be having an exciting summer research intern in UT Austin this summer, advised by [Prof. Philipp Krähenbühl] (http://www.philkr.net/)
+Update: I will be having an exciting summer research intern in UT Austin this summer, advised by [Prof. Philipp Krähenbühl](http://www.philkr.net/)
 <br>
 
 ## Research Interest
