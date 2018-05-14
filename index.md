@@ -9,6 +9,7 @@ layout: default
 Hi, I'm Xisen Jin. I am a senior year student of Fudan University, China, majored in Computer Science and Technology.
 
 I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs by programming.
+Update: I will be having an exciting summer research intern in UT Austin this summer, advised by [Prof. Philipp Krähenbühl] (http://www.philkr.net/)
 <br>
 
 ## Research Interest
@@ -16,7 +17,7 @@ I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy build
 - Natural Language Processing
     - Goal-oriented dialogue agents, Question answering, and Foundamentals(linguistic matters).
 - Machine Learning
-    - Generative models and semi-supervised models
+    - Generative models and especially semi-supervised models
 - Reinfocement learning and Meta-learning
 <br>
 
@@ -74,7 +75,8 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 <br>
 
 ## Awards
-- National Scholarship for undergraduates, 2016 & 2017
+- (1%,1%)National Scholarship for undergraduates, 2016 & 2017
+- (3%)Scholarship for computer science elite program, First Prize
 - IshamWork software competion, first-runner up
 - Microsoft Beauty of Programming, 16/1000
 <br>
