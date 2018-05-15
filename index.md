@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="self.jpg">
 
-Hi, I'm Xisen Jin. I am a senior year student of Fudan University, China, majored in Computer Science and Technology.
+Hi, I'm Xisen Jin. I am a 3rd year undergraduate student in Fudan University, China, majored in Computer Science and Technology.
 
 I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs by programming.
 
