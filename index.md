@@ -53,7 +53,6 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 
 1. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper.
 
-2. Two papers under effort.
 <br>
 
 ## Projects
@@ -67,7 +66,7 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
     Simple(less than 3 hours' work) but useful(at least to myself).
 
 - Codes for Papers:
-    - Available Once Accepted
+    - Sequicity: https://github.com/WING-NUS/sequicity
 
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
