@@ -6,21 +6,17 @@ layout: default
 
 <img class="profile-picture" src="self.jpg">
 
-Hi, I'm Xisen Jin. I am a 3rd year undergraduate student in Fudan University, China, majored in Computer Science and Technology.
+Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology.
 
 I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs by programming.
-
-<br>
 
 ## Research Interest
 
 - Natural Language Processing
-    - Goal-oriented dialogue agents, Question answering, and Foundamentals(linguistic matters).
+    - Goal-oriented dialogue agents, question answering, and Foundamentals(linguistic matters).
 - Machine Learning
-    - Generative models and especially semi-supervised models
-- Reinfocement learning and Meta-learning
-<br>
-
+    - Semi-supervised models for task completion and knowledge discovery
+    
 ## Education
 
 <b>Fudan University,</b> 2015.9 -
@@ -42,18 +38,14 @@ Research Assistant, From Aug. 2017 to Dec. 2017
 
 - Advisor: Wenqiang Lei, [Dr. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
 
-
 <b>[Data Science Lab, JD.com](http://datascience.jd.com)</b>, Beijing, China
 
 Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 - Advisor: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
-<br>
 
 ## Publications
 
 1. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper.
-
-<br>
 
 ## Projects
 - Wheels: 
@@ -66,19 +58,11 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
     Simple(less than 3 hours' work) but useful(at least to myself).
 
 - Codes for Papers:
-    - Sequicity: https://github.com/WING-NUS/sequicity
+    - Sequicity: [code])(https://github.com/WING-NUS/sequicity)
 
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
     - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
-<br>
-
-## Awards
-- (1%,1%)National Scholarship for undergraduates, 2016 & 2017
-- (3%)Scholarship for computer science elite program, First Prize
-- IshamWork software competion, first-runner up
-- Microsoft Beauty of Programming, 16/1000
-<br>
 
 ## Abilities
 - Proficient: Python, PyTorch
