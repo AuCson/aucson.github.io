@@ -58,7 +58,7 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
     Simple(less than 3 hours' work) but useful(at least to myself).
 
 - Codes for Papers:
-    - Sequicity: [code])(https://github.com/WING-NUS/sequicity)
+    - Sequicity: [code](https://github.com/WING-NUS/sequicity)
 
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
