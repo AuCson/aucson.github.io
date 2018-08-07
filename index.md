@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -46,6 +47,7 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 ## Publications
 
 1. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper.
+2. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper.
 
 ## Projects
 - Wheels: 
