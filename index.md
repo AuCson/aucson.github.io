@@ -3,17 +3,18 @@
 
 <img class="profile-picture" src="self.jpg">
 
-Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology.
-
-I'm aspired for academic research and I'm planned for a Ph.D. I also enjoy building interesting stuffs by programming.
+Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology. 
 
 ## Research Interest
 
-- Natural Language Processing
-    - Goal-oriented dialogue agents, question answering, and Foundamentals(linguistic matters).
-- Machine Learning
-    - Semi-supervised models for task completion and knowledge discovery
-    
+My research interests mainly lie on Natural Language Processing. My recent research focus is dialogue systems. 
+
+> While dialogue systems is easy to start with, it is almost an ultimate goal of natural language processing. These effots may push towards this ultimate goal.
+> - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
+> - Structual modeling of grammar, discourse relationships and dialogue process in human interactions, better unsupervised or semi-supervised.
+>
+> And I am on the way to these explorations. ->my publication list
+
 ## Education
 
 <b>Fudan University,</b> 2015.9 -
