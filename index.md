@@ -9,7 +9,7 @@ Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan Univer
 
 My research interests mainly lie on Natural Language Processing. My recent research focus is dialogue systems. 
 
-> While dialogue systems is easy to start with, it is almost an ultimate goal of natural language processing. These effots may push towards this ultimate goal.
+> While dialogue systems is easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push towards this ultimate goal.
 > - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
 > - Structual modeling of grammar, discourse relationships and dialogue process in human interactions, better unsupervised or semi-supervised.
 >
@@ -43,8 +43,8 @@ Algorithm Engineer, Research Assistant, From Dec. 2017 to Feb. 2018
 
 ## Publications
 
-1. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper.
-2. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper.
+1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper.
+2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper.
 
 ## Projects
 - Wheels: 
