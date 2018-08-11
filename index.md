@@ -11,7 +11,7 @@ Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan Univer
 
 My research interests mainly lie on Natural Language Processing. My current research focus is dialogue systems. 
 
-> While dialogue systems is easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push us towards this ultimate goal.
+> While dialogue systems are easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push us towards this ultimate goal.
 > - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
 > - Structual modeling of grammar, discourse relationships and dialogue process in human interactions in unsupervised or semi-supervised fashion.
 >
