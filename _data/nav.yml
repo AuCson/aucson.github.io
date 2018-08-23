@@ -7,4 +7,4 @@
   link: 'ml-techblog/'
   
 - name: "CV"
-  link: "cv.pdf"
+  link: "./cv.pdf"
