@@ -74,5 +74,6 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 - Skilled: C++, Tensorflow, Web/Android Development
 - Independent research ability
 - English
-- Korean :p Cuz I'm *ethnically* Korean: Kim Hee Sum(김희삼) is my korean name. 
+- Chinese(native)
+- Korean(native) :p Because I'm *ethnically* Korean: Kim Hee Sum(김희삼) is my korean name. 
 <br>
