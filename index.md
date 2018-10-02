@@ -49,8 +49,8 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 
 ## Publications
 
-1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper.
-2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [code](https://github.com/WING-NUS/sequicity)
+1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf)
+2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
 ## Projects
 - Wheels: 
@@ -61,9 +61,6 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
     - [Arxiv Digest](https://aucson.github.io/arxiv_digest.html)
     
     Simple(less than 3 hours' work) but useful(at least to myself).
-
-- Codes for Papers:
-    - Sequicity: [code](https://github.com/WING-NUS/sequicity)
 
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
