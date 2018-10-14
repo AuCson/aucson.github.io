@@ -15,6 +15,7 @@ My research interests mainly lie on Natural Language Processing. My current rese
 > - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
 > - Modeling of grammar, discourse relationships and dialogue process in human interactions in unsupervised or semi-supervised manner.
 > - Universal language models with the help of deep architectures.
+
 > And I am on the way of these explorations and have some publications on these areas. [Publications](#publications)
 
 ## Education
