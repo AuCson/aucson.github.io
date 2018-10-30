@@ -5,13 +5,13 @@
 
 Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology. 
 
-<br>
+The photo is taken in Turin, Italy, while attending CIKM'18 where I gave a oral presentation.
 
 ## Research Interest
 
-My research interests mainly lie on Natural Language Processing. My current research focus is dialogue systems. 
+My research interests mainly lie on Natural Language Processing. Specifically, I am interseted two complementary fields: learning explicit and structured knowledge out of data, and learning hidden but powerful representation of data.  
 
-> While dialogue systems are easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push us towards this ultimate goal.
+> I started my research with dialogue systems. While dialogue systems are easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push us towards this ultimate goal.
 > - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
 > - Modeling of grammar, discourse relationships and dialogue process in human interactions in unsupervised or semi-supervised manner.
 > - Universal language models with the help of deep architectures. 
@@ -20,7 +20,7 @@ My research interests mainly lie on Natural Language Processing. My current rese
 
 ## Education
 
-<b>Fudan University,</b> 2015.9 -
+<b>Fudan University,</b> 2015.9 - present
 
 <b>National University of Singapore</b> 2017.8 - 2017.12
 
@@ -66,6 +66,10 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
     - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
+
+## Academics
+Fudan University - GPA 3.86/4.00, ranking 1st in the department.
+National University of Singapore - GPA 4.00/4.00
 
 ## Abilities
 - Proficient: Python, PyTorch
