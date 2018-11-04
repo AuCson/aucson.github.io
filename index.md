@@ -51,7 +51,7 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 
 1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf)
 
-    - Key concepts: Unsupervised state tracking and interpretable dialogue generation; semi-supervised state tracking for task oriented dialogues; posterior regularization; Copyflow network **
+    - Key concepts: Unsupervised state tracking and interpretable dialogue generation; semi-supervised state tracking for task oriented dialogues; posterior regularization; Copyflow network
 
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
@@ -77,7 +77,7 @@ Fudan University - GPA 3.86/4.00, ranking 1st in the department.
 
 National University of Singapore - GPA 4.00/4.00
 
-Among all the courses I took in fudan, I enjoyed Mathematics Analysis(by Dr. Xilin Xie) and Digital Signal Processing(by Dr. Xiangyang Xue) most.
+Among all the courses I took in Fudan, I enjoyed Mathematics Analysis(by Dr. Xilin Xie) and Digital Signal Processing(by Dr. Xiangyang Xue) most.
 
 ## Abilities
 - Proficient: Python, PyTorch
