@@ -54,14 +54,14 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf)
 
     - The research is a step towards unsupervised state tracking and interpretable dialogue generation.
-    - Our model utilize unlabeled dasta for dialogue state tracking.
+    - Our model utilize unlabeled data for dialogue state tracking.
     - The research takes basis on probablistic analysis of response generation process. It proposes a novel copyflow network and posterior regularization for training.
     
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
-    - The research propose an extendable and fully end-to-end dialogue model, while keeping modular structures.
+    - The research proposes an extendable and fully end-to-end dialogue model, while still keeping modular structures.
     - Our model has good out-of-vocabulary capability.
-    - Our model incorporate reinforment learning to generate more informative responses.
+    - Our model incorporates reinforcement learning to generate more informative responses.
 
 ## Projects
 - Wheels: 
