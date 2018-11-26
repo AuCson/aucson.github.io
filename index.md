@@ -9,7 +9,7 @@ The photo is taken in Turin, Italy, while attending CIKM'18 where I gave an oral
 
 ## Research Interest
 
-My research interests mainly lie on Natural Language Processing. Specifically, I am interseted two complementary fields: learning explicit and structured knowledge out of data, and learning hidden but powerful representation of data.  
+My research interests mainly lie on **Natural Language Processing**. Specifically, I am interested in two complementary fields: learning explicit and structured knowledge out of data, and learning hidden but powerful representation of data.  
 
 > I started my research with dialogue systems. While dialogue systems are easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push us towards this ultimate goal.
 > - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
