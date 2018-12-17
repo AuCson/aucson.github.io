@@ -3,25 +3,27 @@
 
 <img class="profile-picture" src="self.jpg">
 
-Hi, I'm Xisen Jin. I am a senior(4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology. 
+Hi, I'm Xisen Jin. I am a senior (4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology. 
 
 The photo is taken in Turin, Italy, while attending CIKM'18 where I gave an oral presentation.
 
 ## Research Interest
 
-My research interests mainly lie on Natural Language Processing. Specifically, I am interseted two complementary fields: learning explicit and structured knowledge out of data, and learning hidden but powerful representation of data.  
+My research interests mainly lie on **Natural Language Processing**. Specifically, I am interested in two complementary fields: learning explicit and structured knowledge out of data, and learning hidden but powerful representation of data.  
 
 > I started my research with dialogue systems. While dialogue systems are easy to start with, it is almost an ultimate goal of natural language processing. These efforts may push us towards this ultimate goal.
 > - Infusing world facts or domain knowledge into dialogue generation, or in reverse, disentangle structural knowledge from them.
-> - Modeling of grammar, discourse relationships and dialogue process in human interactions in unsupervised or semi-supervised manner.
+> - Modeling grammar, discourse relationships and dialogue process in human interactions in unsupervised or semi-supervised manner.
 >
 > And I am on the way of these explorations and have some publications on these areas. [Publications](#publications)
 
 ## Education
 
 <b>Fudan University,</b> 2015.9 - present
+- GPA 3.86 / 4.00 (Major GPA: 3.97 / 4.00), ranking 1 / 117 in the department.
 
-<b>National University of Singapore</b> 2017.8 - 2017.12
+<b>National University of Singapore</b> Exchange, 2017.8 - 2017.12
+- GPA 5.00 / 5.00
 
 ## Research & Interns
 
@@ -51,11 +53,15 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 
 1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf)
 
-    - Key concepts: Unsupervised state tracking and interpretable dialogue generation; semi-supervised state tracking for task oriented dialogues; posterior regularization; Copyflow network
-
+    - The research is a step towards unsupervised state tracking and interpretable dialogue generation.
+    - Our model utilize unlabeled data for dialogue state tracking.
+    - The research takes basis on probablistic analysis of response generation process. It proposes a novel copyflow network and posterior regularization for training.
+    
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
-    - Key concepts: Two stage copynets; multi-task learning; out-of-vocabulary capability; reinforcement learning 
+    - The research proposes an extendable and fully end-to-end dialogue model, while still keeping modular structures.
+    - Our model has good out-of-vocabulary capability.
+    - Our model incorporates reinforcement learning to generate more informative responses.
 
 ## Projects
 - Wheels: 
@@ -71,13 +77,6 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
     - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
 
-## Academics
-
-Fudan University - GPA 3.86/4.00, ranking 1st in the department.
-
-National University of Singapore - GPA 4.00/4.00
-
-Among all the courses I took in Fudan, I enjoyed Mathematics Analysis(by Dr. Xilin Xie) and Digital Signal Processing(by Dr. Xiangyang Xue) most.
 
 ## Abilities
 - Proficient: Python, PyTorch
