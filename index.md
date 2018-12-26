@@ -28,23 +28,23 @@ Besides, I am interested in **Machine Learning**. I will be completing my gradua
 
 Research Assistant, From Oct. 2017 to present
 
-- Advisor: [Dr. Zhongyu Wei](https://wei-zhongyu.github.io/)
+- Adviser: [Dr. Zhongyu Wei](https://wei-zhongyu.github.io/)
 
 <b>[Web Information Retrieval / Natural Language Processing Group (WING)](http://wing.comp.nus.edu.sg/)</b>, National University of Singapore
 
 Research Assistant, From Aug. 2017 to Dec. 2017
 
-- Advisor: Wenqiang Lei, [Dr. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
+- Adviser: Wenqiang Lei, [Dr. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
 
 <b>[Data Science Lab, JD.com](http://datascience.jd.com)</b>, Beijing, China
 
 Research Assistant, From Dec. 2017 to Feb. 2018
-- Advisor: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
+- Adviser: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
 
 <b>[Mircosoft Research Asia](https://www.microsoft.com/en-us/research/)</b>, Beijing, China
 
 Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 2018
-
+- Adviser: Dr. Nan Duan, Dr. Ming Zhou
 
 ## Publications
 
