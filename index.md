@@ -3,9 +3,9 @@
 
 <img class="profile-picture" src="self.jpg">
 
-This is the academic homepage of Xisen Jin, a senior (4th) year undergraduate student in Fudan University, China, majored in Computer Science.
+This is the academic homepage of Xisen Jin, a senior (4th) year undergraduate student in Fudan University, China, majoring in Computer Science.
 
-The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation on our work.
+The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work.
 
 ## Research Interest
 
@@ -64,12 +64,4 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 - Blogs:
     - [Machine Learning](https://aucson.github.io/ml-techblog/)
     - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
-
-
-## Abilities
-- Proficient: Python, PyTorch
-- Skilled: C++, Tensorflow, Web/Android Development
-- Independent research ability
-- English, Chinese(native)
-- Korean(native) :p Because I'm *ethnically* Korean: Kim Hee Sum(김희삼) is my korean name.
 
