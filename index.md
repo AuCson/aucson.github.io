@@ -3,16 +3,15 @@
 
 <img class="profile-picture" src="self.jpg">
 
-Hi, I'm Xisen Jin. I am a senior (4th) year undergraduate student in Fudan University, China, majored in Computer Science and Technology. 
+This is the academic homepage of Xisen Jin, a senior (4th) year undergraduate student in Fudan University, China, majored in Computer Science.
 
-The photo is taken in Turin, Italy, while attending CIKM'18 where I gave an oral presentation.
+The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation on our work.
 
 ## Research Interest
 
-My research interests mainly lie on **Natural Language Processing**. Specifically, I am interested in two complementary fields: learning explicit and structured knowledge out of data, and learning hidden but powerful representation of data.  
-> I am on the way of these explorations and have some publications on these areas. [Publications](#publications)
+My research interests mainly lie on **Natural Language Processing** and **Machine Learning**. I am especially interested in semi-superivsed learning on large-scale data as well as interpretable knowledge reasoning. My past research also covers task-oriented and corpus-based dialogue systems.
 
-Besides, I am interested in **Machine Learning**. I will be completing my graduate thesis with Prof. Xiangyang Xue, on interpretability of neural networks.
+I am currently working with Prof. Xiangyang Xue on post-hoc explanation of NLP models.
 
 ## Education
 
@@ -49,16 +48,8 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
 ## Publications
 
 1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf)
-
-    - The research is a step towards unsupervised state tracking and interpretable dialogue generation.
-    - Our model utilize unlabeled data for dialogue state tracking.
-    - The research takes basis on probablistic analysis of response generation process. It proposes a novel copyflow network and posterior regularization for training.
     
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
-
-    - The research proposes an extendable and fully end-to-end dialogue model, while still keeping modular structures.
-    - Our model has good out-of-vocabulary capability.
-    - Our model incorporates reinforcement learning to generate more informative responses.
 
 ## Projects
 - Wheels: 
