@@ -13,6 +13,8 @@ My research interests mainly lie on **Natural Language Processing** and **Machin
 
 I am currently working with Prof. Xiangyang Xue on post-hoc explanation of NLP models.
 
+I will start my Ph.D. study at the **University of Southern California**, advised by [Prof. Xiang ren](http://www-bcf.usc.edu/~xiangren/) this summer.
+
 ## Education
 
 <b>Fudan University,</b> 2015.9 - present
