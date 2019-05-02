@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](http://aucson.github.io/CV_xisen)(Updated in Jan. 2019)
+You can download my CV [here](http://aucson.github.io/files/CV_xisen.pdf) (Updated in Jan. 2019)
