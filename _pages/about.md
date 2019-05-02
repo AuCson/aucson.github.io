@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-## About Me
 
 This is the academic homepage of Xisen Jin, a senior (4th) year undergraduate student in Fudan University, China, majoring in Computer Science.
 
