@@ -58,17 +58,4 @@ Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 201
     
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
-## Projects
-- Wheels: 
-    - [Batched-Attention GRU in PyTorch](https://github.com/AuCson/PyTorch-Batch-Attention-Seq2seq)
-
-- Softwares: 
-    - [GRE-Verbal-Prep-3000](https://github.com/AuCson/GRE-3000-Memory-Helper)
-    - [Arxiv Digest](https://aucson.github.io/arxiv_digest.html)
-    
-    Simple(less than 3 hours' work) but useful(at least to myself).
-
-- Blogs:
-    - [Machine Learning](https://aucson.github.io/ml-techblog/)
-    - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
 
