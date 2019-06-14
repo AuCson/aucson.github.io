@@ -20,6 +20,12 @@ I am currently working with Prof. Xiangyang Xue on post-hoc explanation of NLP m
 
 I will start my Ph.D. study at the **University of Southern California**, advised by [Prof. Xiang ren](http://www-bcf.usc.edu/~xiangren/) this summer.
 
+## Publications
+
+1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
+    
+2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
+
 ## Education
 
 <b>Fudan University,</b> 2015.9 - present
@@ -52,23 +58,5 @@ Research Assistant, From Dec. 2017 to Feb. 2018
 Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 2018
 - Adviser: Dr. Nan Duan, Dr. Ming Zhou
 
-## Publications
 
-1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf)
-    
-2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
-
-## Projects
-- Wheels: 
-    - [Batched-Attention GRU in PyTorch](https://github.com/AuCson/PyTorch-Batch-Attention-Seq2seq)
-
-- Softwares: 
-    - [GRE-Verbal-Prep-3000](https://github.com/AuCson/GRE-3000-Memory-Helper)
-    - [Arxiv Digest](https://aucson.github.io/arxiv_digest.html)
-    
-    Simple(less than 3 hours' work) but useful(at least to myself).
-
-- Blogs:
-    - [Machine Learning](https://aucson.github.io/ml-techblog/)
-    - [Leetcode Personal Solution](https://aucson.gitbooks.io/leetcode-rec/content/)
 
