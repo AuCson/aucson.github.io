@@ -16,10 +16,6 @@ The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an ora
 
 My research interests mainly lie on **Natural Language Processing** and **Machine Learning**. I am especially interested in semi-superivsed knowledge mining on large-scale data as well as interpretable knowledge reasoning. My past research also covers task-oriented and corpus-based dialogue systems.
 
-I am currently working with Prof. Xiangyang Xue on post-hoc explanation of NLP models.
-
-I will start my Ph.D. study at the **University of Southern California**, advised by [Prof. Xiang Ren](http://www-bcf.usc.edu/~xiangren/) this summer.
-
 ## Publications
 
 1. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
