@@ -14,7 +14,7 @@ The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an ora
 
 ## Research Interest
 
-My research area is **Natural Language Processing** and **Machine Learning**. I am especially interested in dialogue systems, interpretable model architectures and interpretation techniques for neural networks. I am seeking ways to improve language learning ability of models.
+My research area is **Natural Language Processing** and **Machine Learning**. I am especially interested in dialogue systems, interpretable model architectures and interpretation techniques for neural networks. I am seeking how these techniques improve language learning ability of models.
 
 ## Publications
 
