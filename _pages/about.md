@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic homepage of Xisen Jin, a senior (4th) year undergraduate student in Fudan University, China, majoring in Computer Science.
+This is the academic homepage of Xisen Jin. I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
 The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work "Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation".
 
 ## Research Interest
 
-My research interests mainly lie on **Natural Language Processing** and **Machine Learning**. I am especially interested in semi-superivsed knowledge mining on large-scale data as well as interpretable knowledge reasoning. My past research also covers task-oriented and corpus-based dialogue systems.
+My research area is **Natural Language Processing** and **Machine Learning**. I am especially interested in dialogue systems, interpretable model architectures and interpretation techniques for neural networks. I am seeking ways to improve language learning ability of models.
 
 ## Publications
 
@@ -24,7 +24,7 @@ My research interests mainly lie on **Natural Language Processing** and **Machin
 
 ## Education
 
-<b>Fudan University,</b> 2015.9 - present
+<b>Fudan University,</b> 2015.9 - 2019.7
 - GPA 3.75 / 4.00, ranking 1 / 117 in the department.
 
 <b>National University of Singapore</b> Exchange, 2017.8 - 2017.12
