@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic homepage of Xisen Jin. I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Xiang Ren](http://ink-ron.usc.edu/xiangren/).
+This is the academic homepage of Xisen Jin. I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
 The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work "Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation".
 
