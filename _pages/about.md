@@ -25,10 +25,7 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
 ## Education
 
 <b>Fudan University,</b> 2015.9 - 2019.7
-- GPA 3.75 / 4.00, ranking 1 / 117 in the department.
-
 <b>National University of Singapore</b> Exchange, 2017.8 - 2017.12
-- GPA 5.00 / 5.00
 
 ## Research & Interns
 `
