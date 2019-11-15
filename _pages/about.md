@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic homepage of Xisen Jin. I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
+I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
 The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work "Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation".
 
@@ -29,10 +29,11 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
 ## Education
 
 <b>Fudan University,</b> 2015.9 - 2019.7
+
 <b>National University of Singapore</b> Exchange, 2017.8 - 2017.12
 
 ## Research & Interns
-`
+
 <b>Natural Language Processing Group</b>, School of Data Science
 
 Research Assistant, From Oct. 2017 to present
