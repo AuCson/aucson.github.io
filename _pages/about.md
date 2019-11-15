@@ -24,7 +24,7 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
 
 ## Preprints
 
-1. **Xisen jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models. https://arxiv.org/abs/1911.06194 [[code coming soon]]()
+1. **Xisen jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models. [[preprint]](https://arxiv.org/abs/1911.06194) [[code coming soon]]()
 
 ## Education
 
