@@ -22,6 +22,10 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
     
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
+## Preprints
+
+1. **Xisen jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models. https://arxiv.org/abs/1911.06194 [[code coming soon]]
+
 ## Education
 
 <b>Fudan University,</b> 2015.9 - 2019.7
