@@ -18,11 +18,11 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
 
 ## Publications
 
-1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[code (coming soon)]]()
+1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[code (coming soon)]]()
 
-2. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, CIKM 2018, Full paper. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
+2. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, *CIKM 2018 Full Paper*. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
     
-3. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
+3. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, *ACL 2018 Long paper*. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
 
 ## Education
