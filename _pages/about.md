@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic homepage of Xisen Jin. I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Xiang Ren](http://ink-ron.usc.edu/xiangren/).
+I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
 The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work "Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation".
 
@@ -22,16 +22,18 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
     
 2. Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin, Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures, ACL 2018, Full paper. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
 
+## Preprints
+
+1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models. [[preprint]](https://arxiv.org/abs/1911.06194) [[code (coming soon)]]()
+
 ## Education
 
 <b>Fudan University,</b> 2015.9 - 2019.7
-- GPA 3.75 / 4.00, ranking 1 / 117 in the department.
 
 <b>National University of Singapore</b> Exchange, 2017.8 - 2017.12
-- GPA 5.00 / 5.00
 
 ## Research & Interns
-`
+
 <b>Natural Language Processing Group</b>, School of Data Science
 
 Research Assistant, From Oct. 2017 to present
