@@ -12,6 +12,8 @@ I am currently a first-year Ph.D. student at Uninversity of Southern California,
 
 The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work "Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation".
 
+*I am actively seeking internship opportunities in 2020 summer*.
+
 ## Research Interest
 
 My research area is **Natural Language Processing** and **Machine Learning**. I am especially interested in dialogue systems, interpretable model architectures and interpretation techniques for neural networks. I am seeking how these techniques improve language learning ability of models.
@@ -35,7 +37,7 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
 
 <b>Natural Language Processing Group</b>, School of Data Science
 
-Research Assistant, From Oct. 2017 to present
+Research Assistant, From Oct. 2017 to Jul. 2019
 
 - Adviser: [Dr. Zhongyu Wei](https://wei-zhongyu.github.io/)
 
