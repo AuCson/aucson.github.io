@@ -10,8 +10,6 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
-The photo is taken in Turin, Italy, while attending CIKM'18, where I gave an oral presentation about our work "Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation".
-
 *I am actively seeking internship opportunities in 2020 summer*.
 
 ## Research Interest
@@ -35,6 +33,12 @@ My research area is **Natural Language Processing** and **Machine Learning**. I 
 
 ## Research & Interns
 
+<b>[Intelligence and Knowledge Discovery (INK) Research Lab](http://inklab.usc.edu/)
+
+Ph.D. student, From Aug 2019 to present
+
+- Advisor: [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
+
 <b>Natural Language Processing Group</b>, School of Data Science
 
 Research Assistant, From Oct. 2017 to Jul. 2019
@@ -57,5 +61,4 @@ Research Assistant, From Dec. 2017 to Feb. 2018
 Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 2018
 - Adviser: Dr. Nan Duan, Dr. Ming Zhou
 
-
-
+*Details of research projects at [CV](https://aucson.github.io/cv/)*
