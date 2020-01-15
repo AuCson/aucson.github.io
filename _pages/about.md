@@ -18,6 +18,7 @@ Generally, my research interest lie in **Natural Language Processing** and **Mac
 
 > I am always interested in *understanding* the capability of machine learning models in handling complicated semantics in language, and *enhancing* the capability in that way indicated. Some small steps have been made towards this goal: recently, we proposed an interpretation technique to extract semantic compositons captured by powerful neural sequence models; before that, I studied interpretable semi-/un-supervised dialogue state tracking to understand and improve response generation. My future study includes understanding language learning process in more realistic scenarios, where multi-modality and functionality of language, plus some practical constraints naturally exist in the enviornment.
 
+
 ## Publications
 
 1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[code (coming soon)]]()
