@@ -16,12 +16,22 @@ I am currently a first-year Ph.D. student at Uninversity of Southern California,
 
 Generally, my research interest lie in **Natural Language Processing** and **Machine Learning**. I have been working on neural network interpretabilty and dialogue systems.
 
-- I am always interested in *understanding* the capability of machine learning models in handling complicated semantics in language, and *enhancing* the capability in that way indicated. Some small steps have been made towards this goal: recently, we proposed an interpretation technique to extract semantic compositons captured by powerful neural sequence models; before that, I studied interpretable semi-/un-supervised dialogue state tracking to understand and improve response generation. My future study includes understanding language learning process in more realistic scenarios, where multi-modality and functionality of language, plus some practical constraints naturally exist in the enviornment.
+I am always interested in **understanding** the capability of machine learning models in handling complicated semantics in language, and **enhancing** the capability in that way indicated. Some small steps have been made towards this goal: 
+
+- Recently, we proposed an [interpretation technique](#iclr20towards) to extract semantic compositions captured by powerful neural sequence models.
+
+- Before that, I studied [interpretable semi-/un-supervised dialogue state tracking](#cikm18explicit) to better understand response generation and improved state tracking performance in the low-resource setting.
+
+My future study includes understanding language learning process in more realistic scenarios, where multi-modality and functionality of language naturally exist in the enviornment with some practical constraints.
 
 
 ## Publications
 
+<a name="iclr20towards"></a>
+
 1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[code (coming soon)]]()
+
+<a name="cikm18explicit"></a>
 
 2. **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, *CIKM 2018 Full Paper*. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
     
