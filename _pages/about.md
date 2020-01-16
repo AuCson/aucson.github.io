@@ -29,7 +29,7 @@ My future study includes understanding language learning process in more realist
 
 <a name="iclr20towards"></a>
 
-1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[code (coming soon)]]()
+1. **Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[project page]](http://inklab.usc.edu/hiexpl/)
 
 <a name="cikm18explicit"></a>
 
