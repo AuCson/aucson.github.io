@@ -14,13 +14,13 @@ I am currently a first-year Ph.D. student at Uninversity of Southern California,
 
 ## Research Interest
 
-Generally, my research interest lie in **Natural Language Processing** and **Machine Learning**. I have been working on neural network interpretabilty and dialogue systems.
+Generally, my research interest lies in **Natural Language Processing** and **Machine Learning**. I have been working on interpretation techniques of neural network predictions and dialogue systems.
 
-I am always interested in **understanding** the capability of machine learning models in handling complicated semantics in language, and **enhancing** the capability in that way indicated. Some small steps have been made towards this goal: 
+I am always interested in **understanding** the capability of machine learning models in handling **complicated semantics in language**, and **enhancing the capability in that way indicated**. Some small steps have been made towards this goal: 
 
 - Recently, we proposed an [interpretation technique](#iclr20towards) to extract semantic compositions captured by powerful neural sequence models.
 
-- Before that, I studied [interpretable semi-/un-supervised dialogue state tracking](#cikm18explicit) to better understand response generation and improved state tracking performance in the low-resource setting.
+- Before that, I studied [interpretable semi-/un-supervised dialogue state tracking](#cikm18explicit) to better understand multi-turn response generation and also improved state tracking performance in the low-resource setting.
 
 My future study includes understanding language learning process in more realistic scenarios, where multi-modality and functionality of language naturally exist in the enviornment with some practical constraints.
 
@@ -48,30 +48,27 @@ My future study includes understanding language learning process in more realist
 
 <b>[Intelligence and Knowledge Discovery (INK) Research Lab](http://inklab.usc.edu/)
 
-Ph.D. student, From Aug 2019 to present
-
+- Ph.D. student, From Aug 2019 to present
 - Advisor: [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
 <b>Natural Language Processing Group</b>, School of Data Science
 
-Research Assistant, From Oct. 2017 to Jul. 2019
-
-- Adviser: [Dr. Zhongyu Wei](https://wei-zhongyu.github.io/)
+- Research Assistant, From Oct. 2017 to Jul. 2019
+- Adviser: [Prof. Zhongyu Wei](https://wei-zhongyu.github.io/)
 
 <b>[Web Information Retrieval / Natural Language Processing Group (WING)](http://wing.comp.nus.edu.sg/)</b>, National University of Singapore
 
-Research Assistant, From Aug. 2017 to Dec. 2017
-
-- Adviser: Wenqiang Lei, [Dr. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
+- Research Assistant, From Aug. 2017 to Dec. 2017
+- Adviser: [Prof. Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy/)
 
 <b>[Data Science Lab, JD.com](http://datascience.jd.com)</b>, Beijing, China
 
-Research Assistant, From Dec. 2017 to Feb. 2018
+- Research Intern, From Dec. 2017 to Feb. 2018
 - Adviser: [Dr. Zhaochun Ren](https://sites.google.com/site/zren87/), [Dr. Dawei Yin](http://www.yindawei.com/)
 
 <b>[Mircosoft Research Asia](https://www.microsoft.com/en-us/research/)</b>, Beijing, China
 
-Research Assistant, Natural Language Computing group. From Jul. 2018 to Oct. 2018
+- Research Intern, Natural Language Computing group. From Jul. 2018 to Oct. 2018
 - Adviser: Dr. Nan Duan, Dr. Ming Zhou
 
 *Details of research projects at [CV](https://aucson.github.io/cv/)*
