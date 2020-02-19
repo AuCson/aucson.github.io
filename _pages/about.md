@@ -12,7 +12,7 @@ I am currently a first-year Ph.D. student at Uninversity of Southern California,
 
 *I am actively seeking internship opportunities in 2020 summer*.
 
-*I am also actively seeking collegues near LA to travel together to Addis Ababa, Ethiopia for ICLR :D*
+*I am also actively seeking collegues near LA to travel together to Addis Ababa, Ethiopia for ICLR !*
 
 ## Research Interest
 
@@ -29,7 +29,7 @@ My future study includes understanding language learning process in more realist
 
 ## Publications
 
-1. <a name="iclr20towards"></a>**Xisen Jin**, Junyi Du, Zhongyu Wei, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[project page]](http://inklab.usc.edu/hiexpl/)
+1. <a name="iclr20towards"></a>**Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren, Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, *ICLR 2020 Spotlight*. [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) [[project page]](http://inklab.usc.edu/hiexpl/)
 
 2. <a name="cikm18explicit"></a>**Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin, Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation, *CIKM 2018 Full Paper*. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
     
