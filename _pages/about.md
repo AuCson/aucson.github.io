@@ -10,10 +10,6 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
-*I am actively seeking internship opportunities in 2020 summer*.
-
-*I am also actively seeking collegues near LA to travel together to Addis Ababa, Ethiopia for ICLR !*
-
 ## Research Interest
 
 Generally, my research interest lies in **Natural Language Processing** and **Machine Learning**. I have been working on interpretation techniques of neural network predictions and dialogue systems.
