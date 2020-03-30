@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xisen Jin"
 title_separator          : "-"
 name                     : &name "Xisen Jin"
-description              : &description "Undergraduate at Fudan University"
+description              : &description "First year PhD student at University of Southern California"
 url                      : https://aucson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Xisen Jin"
-  avatar           : "self.jpg"
+  avatar           : "self2.jpg"
   bio              : "First year PhD student at University of Southern California"
-  location         : #"Location"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+sidebar: 
+  - travel:
+    
 
 
 # Reading Files
