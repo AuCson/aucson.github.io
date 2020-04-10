@@ -14,7 +14,7 @@ I am currently a first-year Ph.D. student at Uninversity of Southern California,
 
 Generally, my research interest lies in **Natural Language Processing** and **Machine Learning**. I have been working on interpretation techniques of neural network predictions and dialogue systems.
 
-I am always interested in **understanding** the capability of machine learning models in handling **complicated semantics in language**, and **enhancing the capability in that way indicated**. Some small steps have been made towards this goal: 
+I am always interested in **understanding** the capability of machine learning models in handling **complicated semantics in language**, and **enhancing the capability in that way indicated**. 
 
 - Recently, we proposed an [interpretation technique](#iclr20towards) to extract semantic compositions captured by powerful neural sequence models.
 
