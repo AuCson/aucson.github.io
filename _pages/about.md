@@ -20,8 +20,6 @@ I am always interested in **understanding** the capability of machine learning m
 
 - Before that, I studied [interpretable semi-/un-supervised dialogue state tracking](#cikm18explicit) to better understand multi-turn response generation and also improved state tracking performance in the low-resource setting.
 
-My future study includes understanding language learning process in more realistic scenarios, where multi-modality and functionality of language naturally exist in the enviornment with some practical constraints.
-
 
 ## Publications
 1. <a name="acl20contextual"></a><b>Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</b> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code (coming soon)]]()
