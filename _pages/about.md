@@ -22,14 +22,14 @@ I am always interested in **understanding** the capability of machine learning m
 
 
 ## Publications
-1. <a name="acl20contextual"></a><b>Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</b> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code (coming soon)]]()
+1. <a name="acl20contextual"></a><a href="">Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</a> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code (coming soon)]]()
 
-1. <a name="iclr20towards"></a><b>Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.</b> **Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren.  *ICLR 2020 spotlight*. [[project page]](http://inklab.usc.edu/hiexpl/) [[code]](https://github.com/INK-USC/hierarchical-explanation) [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) 
+1. <a name="iclr20towards"></a><a href="https://openreview.net/forum?id=BkxRRkSKwr">Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.</a> **Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren.  *ICLR 2020 spotlight*. [[project page]](http://inklab.usc.edu/hiexpl/) [[code]](https://github.com/INK-USC/hierarchical-explanation)
 
 
-1. <a name="cikm18explicit"></a><b>Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation.</b> **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin. *CIKM 2018 full Paper*. [[code]](https://github.com/AuCson/SEDST) [[paper]](https://arxiv.org/pdf/1808.10596.pdf) [[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
+1. <a name="cikm18explicit"></a><a href="https://arxiv.org/abs/1808.10596">Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation.</a> **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin. *CIKM 2018 full Paper*. [[code]](https://github.com/AuCson/SEDST)[[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
     
-1. <b>Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures.</b>Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. *ACL 2018 long paper*. [[code]](https://github.com/WING-NUS/sequicity) [[paper]](http://www.aclweb.org/anthology/P18-1133)
+1. <a href="http://www.aclweb.org/anthology/P18-1133">Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures.</a>Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. *ACL 2018 long paper*. [[code]](https://github.com/WING-NUS/sequicity)
 
 
 ## Education
