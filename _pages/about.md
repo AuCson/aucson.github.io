@@ -24,7 +24,8 @@ My future study includes understanding language learning process in more realist
 
 
 ## Publications
-1. <a name="acl20contextual"></a>Contextualizing Hate Speech Classifiers with Post-hoc Explanation. Brendan Kennedy*, **Xisen Jin***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code (coming soon)]]()
+1. <a name="acl20contextual"></a>Contextualizing Hate Speech Classifiers with Post-hoc Explanation. Brendan Kennedy
+\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code (coming soon)]]()
 
 1. <a name="iclr20towards"></a>Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models. **Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren.  *ICLR 2020 spotlight*. [[project page]](http://inklab.usc.edu/hiexpl/) [[code]](https://github.com/INK-USC/hierarchical-explanation) [[paper]](https://openreview.net/forum?id=BkxRRkSKwr) 
 
