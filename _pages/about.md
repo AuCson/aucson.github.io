@@ -22,7 +22,7 @@ I am always interested in **understanding** the capability of machine learning m
 
 
 ## Publications
-1. <a name="acl20contextual"></a><a href="">Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</a> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code (coming soon)]]()
+1. <a name="acl20contextual"></a><a href="">Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</a> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code]](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations)
 
 1. <a name="iclr20towards"></a><a href="https://openreview.net/forum?id=BkxRRkSKwr">Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.</a> **Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren.  *ICLR 2020 spotlight*. [[project page]](http://inklab.usc.edu/hiexpl/) [[code]](https://github.com/INK-USC/hierarchical-explanation)
 
