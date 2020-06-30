@@ -21,7 +21,7 @@ I am always interested in **understanding** the capability of machine learning m
 - Before that, I studied [interpretable semi-/un-supervised dialogue state tracking](#cikm18explicit) to better understand multi-turn response generation and also improved state tracking performance in the low-resource setting.
 
 ## Publications
-1. <a name="lifelong20gmed"></a><a href="http://aucson.github.io/files/icml_workshop_GMED.pdf">Gradient Based Memory Editing for Task-Free Continual Learning</a> **Xisen Jin**, Junyi Du, Xiang Ren. *Lifelong ML@ICML 2020*. [[code]](https://github.com/ink-usc/GMED)
+1. <a name="lifelong20gmed"></a><a href="https://arxiv.org/abs/2006.15294">Gradient Based Memory Editing for Task-Free Continual Learning</a> **Xisen Jin**, Junyi Du, Xiang Ren. *Lifelong ML@ICML 2020*. [[code]](https://github.com/ink-usc/GMED)
 
 
 1. <a name="acl20contextual"></a><a href="https://arxiv.org/abs/2005.02439">Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</a> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code]](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations)
