@@ -10,21 +10,25 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
-## Research Interest
-
 Generally, my research interest lies in **Natural Language Processing** and **Machine Learning**. I have been working on interpretation techniques of neural network predictions and dialogue systems.
 
-I am always interested in **understanding** the capability of machine learning models in handling **complicated semantics in language**, and **enhancing the capability in that way indicated**. 
+I am always interested in **understanding** the capability of machine learning models in handling **complicated semantics in language**, and **enhancing the capability in the way indicated**. 
 
-- Recently, we proposed an [interpretation technique](#iclr20towards) to extract semantic compositions captured by powerful neural sequence models.
+## News
 
-- Before that, I studied [interpretable semi-/un-supervised dialogue state tracking](#cikm18explicit) to better understand multi-turn response generation and also improved state tracking performance in the low-resource setting.
+- Jul. 2020: Two papers accepted at Lifelong Learning workshop@ICML 2020 and Continual Learning workshop@ICML 2020. We proposed a task-free continual learning algorithm and studied its performance in popular benchmarks. We proposed a task setup for visually grounded continual compostional phrase learning.
+
+
+- Apr. 2020: Our paper about reducing unintended bias in hate speech classifiers by regularizing post-hoc explanations was accepted at ACL 2020. Media posts: [USC](https://viterbischool.usc.edu/news/2020/07/context-reduces-racial-bias-in-hate-speech-detection-algorithms/), [Unite.AI](https://www.unite.ai/new-study-attempts-to-improve-hate-speech-detection-algorithms/), [ScienceDaily](https://www.sciencedaily.com/releases/2020/07/200707113229.htm). 
+
+- Dec. 2019: Our paper discussing explanation algorithms for compositional semantics captured in neural sequence models got spotlighted at ICLR 2020.
+
 
 ## Publications
-1. <a name="lifelong20gmed"></a><a href="http://aucson.github.io/files/icml_workshop_GMED.pdf">Gradient Based Memory Editing for Task-Free Continual Learning</a> **Xisen Jin**, Junyi Du, Xiang Ren. *Lifelong ML@ICML 2020*. [[code]](https://github.com/ink-usc/GMED)
+1. <a name="lifelong20gmed"></a><a href="http://aucson.github.io/files/icml_workshop_GMED.pdf">Gradient Based Memory Editing for Task-Free Continual Learning</a> **Xisen Jin**, Junyi Du, Xiang Ren. *Lifelong ML@ICML 2020*.
+ [[code]](https://github.com/ink-usc/GMED)
 
-
-1. <a name="acl20contextual"></a><a href="https://arxiv.org/abs/2005.02439">Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</a> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[code]](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations)
+1. <a name="acl20contextual"></a><a href="https://arxiv.org/abs/2005.02439">Contextualizing Hate Speech Classifiers with Post-hoc Explanation.</a> Brendan Kennedy\*, **Xisen Jin\***, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren. *ACL 2020 short paper*. [[project page]](https://inklab.usc.edu/contextualize-hate-speech/) [[code]](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations)
 
 1. <a name="iclr20towards"></a><a href="https://openreview.net/forum?id=BkxRRkSKwr">Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.</a> **Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren.  *ICLR 2020 spotlight*. [[project page]](http://inklab.usc.edu/hiexpl/) [[code]](https://github.com/INK-USC/hierarchical-explanation)
 
