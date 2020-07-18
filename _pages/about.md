@@ -18,7 +18,7 @@ I am always interested in **understanding** the capability of machine learning m
 
 - Jul. 2020: Two papers accepted at Lifelong Learning workshop@ICML 2020 and Continual Learning workshop@ICML 2020. We studied a task-free continual learning algorithm, and proposed a task setup for visually grounded continual compostional phrase learning.
 
-- Apr. 2020: Our paper about reducing unintended bias in hate speech classifiers by regularizing post-hoc explanations was accepted at ACL 2020. Media posts: [USC](https://viterbischool.usc.edu/news/2020/07/context-reduces-racial-bias-in-hate-speech-detection-algorithms/), [Unite.AI](https://www.unite.ai/new-study-attempts-to-improve-hate-speech-detection-algorithms/), [ScienceDaily](https://www.sciencedaily.com/releases/2020/07/200707113229.htm). 
+- Apr. 2020: Our paper about reducing unintended bias in hate speech classifiers by regularizing post-hoc explanations was accepted at ACL 2020. 
 
 - Dec. 2019: Our paper discussing explanation algorithms for compositional semantics captured in neural sequence models got spotlighted at ICLR 2020.
 
