@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xisen Jin"
   avatar           : "self2.jpg"
-  bio              : "First year PhD student at University of Southern California"
+  bio              : "Second year PhD student at University of Southern California"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5g3xIVIAAAAJ&hl=en"
   email            : "xisenjin usc edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

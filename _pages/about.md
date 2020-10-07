@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
+I am currently a second-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
 Generally, my research interests are **Natural Language Processing** and **Machine Learning**. I have been working on continual learning and interpretation techniques of neural network predictions.
+
 
 ## News
 
@@ -26,7 +27,7 @@ Generally, my research interests are **Natural Language Processing** and **Machi
 
 
 ## Publications
-1. <a name="emnlp20viscoll"></a><a href="https://arxiv.org/abs/2005.00785">Visually Grounded Continual Learning of Compositional Semantics</a> Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren. *EMNLP 2020* [[data]](https://github.com/INK-USC/VisCOLL/tree/master/data) [[code]] (coming soon)
+1. <a name="emnlp20viscoll"></a><a href="https://arxiv.org/abs/2005.00785">Visually Grounded Continual Learning of Compositional Semantics</a> Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren. *EMNLP 2020* [[code&data]](https://github.com/INK-USC/VisCOLL/tree/master/data)
 
 1. <a name="lifelong20gmed"></a><a href="http://aucson.github.io/files/icml_workshop_GMED.pdf">Gradient Based Memory Editing for Task-Free Continual Learning</a> **Xisen Jin**, Junyi Du, Xiang Ren. *Lifelong ML@ICML 2020*.
  [[code]](https://github.com/ink-usc/GMED)
@@ -36,7 +37,7 @@ Generally, my research interests are **Natural Language Processing** and **Machi
 1. <a name="iclr20towards"></a><a href="https://openreview.net/forum?id=BkxRRkSKwr">Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.</a> **Xisen Jin**, Zhongyu Wei, Junyi Du, Xiangyang Xue and Xiang Ren.  *ICLR 2020 spotlight*. [[project page]](http://inklab.usc.edu/hiexpl/) [[code]](https://github.com/INK-USC/hierarchical-explanation)
 
 
-1. <a name="cikm18explicit"></a><a href="https://arxiv.org/abs/1808.10596">Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation.</a> **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin. *CIKM 2018 full Paper*. [[code]](https://github.com/AuCson/SEDST)[[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
+1. <a name="cikm18explicit"></a><a href="https://arxiv.org/abs/1808.10596">Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation.</a> **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin. *CIKM 2018 full Paper*. [[code]](https://github.com/AuCson/SEDST)[ [slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
     
 1. <a href="http://www.aclweb.org/anthology/P18-1133">Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures.</a>Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. *ACL 2018 long paper*. [[code]](https://github.com/WING-NUS/sequicity)
 
