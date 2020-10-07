@@ -10,11 +10,13 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Uninversity of Southern California, advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/).
 
-Generally, my research interest lies in **Natural Language Processing** and **Machine Learning**. I have been working on continual learning and interpretation techniques of neural network predictions. Prior to these, I studied dialogue systems.
-
-I am always interested in **understanding** the capability of machine learning models in handling **complicated semantics in language**, and **enhancing the capability in the way indicated**. 
+Generally, my research interests are **Natural Language Processing** and **Machine Learning**. I have been working on continual learning and interpretation techniques of neural network predictions.
 
 ## News
+
+- Sep. 2020: Our paper Visually Grounded Continual Learning of Compositional Phrases got accepted at EMNLP 2020.
+
+- Aug. 2020: Finished my 3-month internship at Snapchat!
 
 - Jul. 2020: Two papers accepted at Lifelong Learning workshop@ICML 2020 and Continual Learning workshop@ICML 2020. We studied a task-free continual learning algorithm, and proposed a task setup for visually grounded continual compostional phrase learning.
 
@@ -24,6 +26,8 @@ I am always interested in **understanding** the capability of machine learning m
 
 
 ## Publications
+1. <a name="emnlp20viscoll"></a><a href="https://arxiv.org/abs/2005.00785">Visually Grounded Continual Learning of Compositional Semantics</a> Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren. *EMNLP 2020* [[data]](https://github.com/INK-USC/VisCOLL/tree/master/data) [[code]] (coming soon)
+
 1. <a name="lifelong20gmed"></a><a href="http://aucson.github.io/files/icml_workshop_GMED.pdf">Gradient Based Memory Editing for Task-Free Continual Learning</a> **Xisen Jin**, Junyi Du, Xiang Ren. *Lifelong ML@ICML 2020*.
  [[code]](https://github.com/ink-usc/GMED)
 
@@ -35,9 +39,6 @@ I am always interested in **understanding** the capability of machine learning m
 1. <a name="cikm18explicit"></a><a href="https://arxiv.org/abs/1808.10596">Explicit State Tracking with Semi-Supervision for Neural Dialogue Generation.</a> **Xisen Jin**, Wenqiang Lei, Zhaochun Ren, Hongshen Chen, Shangsong Liang, Yihong Eric Zhao and Dawei Yin. *CIKM 2018 full Paper*. [[code]](https://github.com/AuCson/SEDST)[[slides (pdf)]](http://aucson.github.io/files/explicit_state_tracking_slides.pdf) [[slides (pptx)]](http://aucson.github.io/files/explicit_state_tracking_slides.pptx)
     
 1. <a href="http://www.aclweb.org/anthology/P18-1133">Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures.</a>Wenqiang Lei, **Xisen Jin**, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. *ACL 2018 long paper*. [[code]](https://github.com/WING-NUS/sequicity)
-
-## Preprints
-1. <a name="arxiv20viscoll"></a><a href="https://arxiv.org/abs/2005.00785">Visually Grounded Continual Learning of Compositional Semantics</a> Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren. *arxiv preprint*.
 
 
 ## Education
