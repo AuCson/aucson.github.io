@@ -1,0 +1,379 @@
+<!DOCTYPE HTML>
+    
+<html>
+	<head>
+		<title>Hierarchical Explanation Demo Website</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+        <style>
+            html {
+                scroll-behavior: smooth;
+            }
+        </style>
+
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="logo"><strong>Towards Hierarchical Importance Attribution </strong> by INK Lab</a>
+					<nav id="nav">
+						<a href="index.html">Home</a>
+						<a href="https://inklab.usc.edu/">INK Lab</a>
+						<a href="https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models">Github</a>
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<header>
+						<h1>Visual Sentiment Analysis</h1>
+                        <h3>Explaining Compositional Semantics for Neural Sequence Models</h3>
+                        <i style="color: white">Xisen Jin, Zhongyu Wei, Junyi Du, Xiangyang Xue, Xiang Ren</i>
+                        <br>
+                        <br>
+					</header>
+
+					<div class="flex ">
+
+						<div>
+                           <img src="images/inklablogo.png" alt="Ink lab" style="width:75px; height: auto;"> 
+							
+						</div>
+
+						<div>
+							<img src="images/uscwhitelogo.png" alt="USC logo" style="width:300px; height: auto; ">
+						</div>
+
+						<div>
+                            <img src="images/fudanclearlogo.png" alt="Fudan University" style="width:75px; height: auto; ">
+							
+						</div>
+
+					</div>
+
+					<footer>
+						<a href="#three" class="button">Run Demo</a>
+					</footer>
+				</div>
+			</section>
+
+
+		<!-- Demo -->
+	
+		
+		
+		
+		
+		
+			<section id="three" class="wrapper align-left">
+				<div class="inner">
+					<div class="flex flex-2" id="demo">
+						<body>
+							<header style="margin-bottom: 0px;">
+                                <h2>Sentiment Analysis</h2>
+								<h3 style="margin-bottom: 3px">A Visual Demo</h3>
+                                <p style="margin-top: 10px;">Sentiment Analysis is the task of interpreting and classifying emotions (positive or negative) in the input text.</p>
+                                <p style="color: #000000; font-size: 20px; margin-bottom: auto"> Model </p>
+							</header>
+							
+							<p style="margin-bottom: 0px;">
+							
+							
+							
+							
+							</p>
+                            
+                            <form id="visualize_form" name="visualize_form" accept-charset="UTF-8">
+                                <fieldset>
+                                <label for="model">Choose a model:</label>
+                                <select id="model" name="model" style="width: 180px;">
+<!--                                    <option value="LSTM">LSTM Model &#9662; </option>-->
+                                    <option value="BERT">BERT Transformer &#9662;</option>
+                                </select>
+                                
+                                <p style="margin-top: 16px">Both LSTM models and BERT Transformer models on multiple datasets show that algorithms, Sampling and Contextual Decomposition (SCD) algorithm and Sampling and Occlusion (SOC) algorithm, outperform prior hierarchical explanation algorithms. These algorithms help to visualize semantic composition captured by models, extract classification rules and improve human trust of models.</p>
+                                
+                                <p style="color: #000000; font-size: 20px; margin-bottom: 4px; margin-top: 10px"> Input </p>
+                               
+                                <label for="input">Enter (or edit) text:</label>
+                                <input id = "input" name="input" style="border-radius: 7px; border-color: #6cc091; width: 800px; border-width:medium; line-height: 36px" type ="text" value="a very well-made, funny and entertaining picture.">
+                                <br> 
+                                <br>
+                                <input id = "submit" type="button" value="RUN" onclick="insert()">
+                                </fieldset>
+                            </form>
+						</body>
+                        
+                        <article style="margin-right: 50px; margin-top: 50px;" id="answer">
+							<header>
+								<h3 style="margin-bottom: 3px">Answer						
+								
+								
+								</h3>
+							</header>
+<!--                            <p>The model predicts the sentence is -&ndash;&gt; Positive. (100.0%)</p>-->
+                            
+                            
+                            
+						</article>
+                        <div id="display"></div>
+                        
+                        
+                        
+					</div>
+				</div>
+				
+				<div class="inner">
+					<div class="flex flex-2" id="demo2">
+						<body>
+							<header style="margin-bottom: 0px;">
+                                <h7>
+                                
+                                <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+                                		<!-- Scripts -->
+								<script src="assets/js/jquery.min.js"></script>
+								<script src="assets/js/skel.min.js"></script>
+								<script src="assets/js/util.js"></script>
+								<script src="assets/js/main.js"></script>
+
+                                <script>
+
+
+
+                                var treeData = [
+                                  {
+                                    "name": "Effective but too-tepid biopic",
+                                    "parent": "null",
+                                    
+                                    "children": [
+                                      {
+                                        "name": "Effective but",
+                                        "parent": "Effective but too-tepid biopic",
+                                        "children": [
+                                          {
+                                            "name": "Effective",
+                                            "parent": "Effective but",
+                                            "importance": 6.46174
+                                          },
+                                          {
+                                            "name": "but",
+                                            "parent": "Effective but",
+                                            "importance": 0.666351
+                                          }
+                                        ],
+                                      	"importance": 0.891183
+                                      },
+                                      {
+                                          "name": "too-tepid biopic",
+                                          "parent": "Effective but too-tepid biopic",
+                                          "children": [
+                                            {
+                                              "name": "too-tepid",
+                                              "parent": "too-tepid biopic",
+                                              "importance": -5.531839
+                                            },
+                                            {
+                                              "name": "biopic",
+                                              "parent": "too-tepid biopic",
+                                              "importance": 0.298289
+                                            }
+                                          ],
+                                          "importance": -7.055164
+                                        }
+                                    ],
+                                    "importance": -4.290321
+                                  }
+                                ];
+
+                                function plot_tree(tree_data) {
+
+									// ************** Generate the tree diagram	 *****************
+									var margin = {top: 40, right: 120, bottom: 20, left: 120},
+											width = 960 - margin.right - margin.left,
+											height = 500 - margin.top - margin.bottom;
+
+									var i = 0;
+
+									var tree = d3.layout.tree()
+											.size([height, width]);
+
+									var diagonal = d3.svg.diagonal()
+											.projection(function (d) {
+												return [d.x, d.y];
+											});
+
+									var svg = d3.select("h7").append("svg")
+											.attr("width", width + margin.right + margin.left)
+											.attr("height", height + margin.top + margin.bottom)
+											.append("g")
+											.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+									let nodeColor = ["#ff471a", "#ff5c33", "#ff704d", "#ff8566", "#ff9980", "#ffad99", "#ffc2b3", "#ffd6cc", "#ffebe6", "#ccffff", "#ffcccc", "#ccccff", "#9999ff", "#6666ff", "#3333ff", "#0000ff", "#0000cc", "#000099", "#000066", "#000033", "#000000"];
+
+									root = treeData[0];
+
+									update(root);
+
+									function getScore(d) {
+										return d.score;
+									}
+
+									function update(source) {
+
+										// Compute the new tree layout.
+										var nodes = tree.nodes(root).reverse(),
+												links = tree.links(nodes);
+
+										// Normalize for fixed-depth.
+										nodes.forEach(function (d) {
+											d.y = d.depth * 100;
+										});
+
+										// Declare the nodes…
+										var node = svg.selectAll("g.node")
+												.data(nodes, function (d) {
+													return d.id || (d.id = ++i);
+												});
+
+										// Enter the nodes.
+										var nodeEnter = node.enter().append("g")
+												.attr("class", "node")
+												.attr("transform", function (d) {
+													return "translate(" + d.x + "," + d.y + ")";
+												});
+
+
+										//var myScore = nodeColor[]
+										//var myColor = nodeColor[myScore];
+
+										nodeEnter.append("circle")
+												.attr("r", 10)
+												.style("fill", function (d) {
+													return nodeColor[Math.round(d.importance + 10)]
+												});
+
+										nodeEnter.append("text")
+												.attr("y", function (d) {
+													return d.children || d._children ? -18 : 18;
+												})
+												.attr("dy", "1.5em")
+												.attr("text-anchor", "middle")
+												.text(function (d) {
+													return d.name;
+												})
+												.style("fill-opacity", 1);
+
+										// Declare the links…
+										var link = svg.selectAll("path.link")
+												.data(links, function (d) {
+													return d.target.id;
+												});
+
+										// Enter the links.
+										link.enter().insert("path", "g")
+												.attr("class", "link")
+												.attr("d", diagonal);
+
+									}
+								}
+
+
+								plot_tree(treeData)
+
+								// here comes the code for querying server for explanation results
+								$("#submit").click(function(){
+                                	var input_text = $("#input").val()
+                                	$.ajax({
+									type:"GET",
+									url:"http://ink-molly.usc.edu:22015/predict?sentence=" + input_text,
+									data: "name=John&location=Boston",
+									dataType:"json",
+									async: true,
+									success: function(msg){
+									   treeData = [msg];
+									   plot_tree(treeData)
+								}});
+
+								})
+
+
+                                </script>
+                                
+
+
+								</h7>
+								
+							</header>
+							
+							
+						</body>
+                        
+
+                        
+                        
+                        
+					</div>
+				</div>
+				
+				
+				
+                
+                 <div class="inner" style="margin-top: 50px">
+                            <div class="flex flex-2">
+                                <article>
+                                    <div style="float:left;">
+                                    <header>
+                                        <h2>Hierarchical Explanation</h2>
+								        <h3 style="margin-bottom: 3px"> Why is it important?</h3>
+							         </header>
+                                        <p style="margin-top: 10px; color: #000000; width: 500px;"> Hierarchical explanations of neural sequence model predictions help us to understand how these models handle compositional semantics such as stress or negation. This visualization explains how the prediction builds up from atomic words to the full sentence. Quantitative evaluation shows that these explanations achieve high correlations with selected reference explanations. </p>
+                                    </div>
+                                    
+                                    <div> 
+                                        <img src="images/hiexplExample.gif" alt="HiExpl Gif" style="width: 600px; float:right;">
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+			</section>
+
+
+
+
+
+		<!-- Footer -->
+			<footer id="banner">
+                    <div class="inner">
+					<h3>Citation</h3>
+                    <p> <i>Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models </i>
+                    <br>
+                    Xisen Jin, Zhongyu Wei, Junyi Du, Xiangyang Xue, Xiang Ren
+                        <br>
+                        + 25 Sep 2019 (modified: 11 Mar 2020)
+                        <br>
+                        + ICLR 2020 Conference Blind Submission</p>
+                    
+                        <a href="https://inklab.usc.edu/" style="color: white">[INK Lab]</a>
+                        <a href="https://openreview.net/forum?id=BkxRRkSKwr" style="color: white">[Paper]</a>
+                        <a href="https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models" style="color: white">[Github]</a>
+                        
+					<div class="copyright" style="margin-top: 0px;">
+                        <br>
+                        <br>
+						&copy; Copyright 2020. University of Southern California - INK Lab - Viterbi School of Engineering
+					</div>
+				    </div>
+
+				
+			</footer>
+
+
+
+	</body>
+</html>
